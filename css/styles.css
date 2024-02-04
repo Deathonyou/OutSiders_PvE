@@ -1,13 +1,13 @@
 p1 {
   font-family: "Raleway", sans-serif;
     text-shadow: 4px 4px 4px #aaa;
-    font-size: 80px;
+    font-size: 20px;
     text-align: center;
 }
 body {
   font-family: "Raleway", sans-serif;
   text-shadow: 4px 4px 4px #aaa;
-  font-size: 80px;
+  font-size: 20px;
   text-align: center;
 }
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
