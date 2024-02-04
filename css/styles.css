@@ -2,13 +2,13 @@ p1 {
   font-family: "Raleway", sans-serif;
     text-shadow: 4px 4px 4px #aaa;
     text-align: center;
-    font-size: small;
+    font-size: smaller;
 }
 body {
   font-family: "Raleway", sans-serif;
   text-shadow: 4px 4px 4px #aaa;
   text-align: center;
-  font-size: small;
+  font-size: smaller;
 }
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:300);
