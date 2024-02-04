@@ -4,6 +4,12 @@ p1 {
     font-size: 8px;
     text-align: center;
 }
+body {
+  font-family: 'Permanent Marker';font-size: 22px;
+  text-shadow: 4px 4px 4px #aaa;
+  font-size: 8px;
+  text-align: center;
+}
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:300);
 .fa-2x {
