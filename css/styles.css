@@ -1,7 +1,8 @@
 body {
   font-family: "Raleway", sans-serif;
     text-shadow: 4px 4px 4px #aaa;
-    font-size: 14px;  
+    width: auto;
+    height: auto;
     text-align: center;
 }
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
