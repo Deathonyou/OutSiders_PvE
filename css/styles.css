@@ -39,7 +39,7 @@ width:60px;
 overflow:hidden;
 -webkit-transition:width .12s linear;
 transition:width .12s linear;
-transition:delay .12s linear;
+animation-delay: 8ms;
 -webkit-transform:translateZ(0) scale(1,1);
 z-index:1000;
 }
