@@ -1,6 +1,6 @@
 body {
   font-family: 'Brush Script MT', cursive;
-    text-shadow: 2px 2px 2px hsl(0, 0%, 46%);
+    text-shadow: 2px 2px 2px #757474;
     width: auto;
     height: auto;
     text-align: center;
@@ -39,7 +39,7 @@ left:0;
 width:60px;
 overflow:hidden;
 -webkit-transition:width .12s linear;
--webkittransition-delay: .8s;
+transition:width .12s linear;
 -webkit-transform:translateZ(0) scale(1,1);
 z-index:1000;
 }
@@ -65,7 +65,6 @@ font-size: 14px;
 text-decoration:none;
 -webkit-transform:translateZ(0) scale(1,1);
 -webkit-transition:all .12s linear;
--webkit-animation-delay:all .8s linear ;
 transition:all .12s linear;
   
 }
