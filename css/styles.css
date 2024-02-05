@@ -1,10 +1,10 @@
 body {
   font-family: 'Brush Script MT', cursive;
-    text-shadow: 2px 2px 2px #757474;
+    text-shadow: 2px 2px 2px hsl(0, 0%, 46%);
     width: auto;
     height: auto;
     text-align: center;
-    text-size-adjust: auto;
+    text-size-adjust: medium;
 }
 
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
