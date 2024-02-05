@@ -40,8 +40,6 @@ overflow:hidden;
 -webkit-transition:width .12s linear;
 transition:width .12s linear;
 transition-delay: .8s linear;
--o-transition-delay: .8s;
--o-transition-delay: .8s;
 -webkit-transform:translateZ(0) scale(1,1);
 z-index:1000;
 }
@@ -122,12 +120,12 @@ nav ul,nav li {
 outline:0;
 margin:0;
 padding:0;
-animation-delay: .8s;
 transition-delay: .8s;
 }
 .main-menu li:hover>a,nav.main-menu li.active>a,.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus,.no-touch .dashboard-page nav.dashboard-menu ul li:hover a,.dashboard-page nav.dashboard-menu ul li.active a {
 color:#fff;
 background-color:#000000;
+transition-delay: .8ms;
 }
 .area {
 float: left;
