@@ -39,7 +39,7 @@ width:60px;
 overflow:hidden;
 -webkit-transition:width .12s linear;
 transition:width .12s linear;
-transition-delay: 8s linear;
+transition-delay: .8s linear;
 -webkit-transform:translateZ(0) scale(1,1);
 z-index:1000;
 }
@@ -64,8 +64,8 @@ color:#999;
 font-size: 14px;
 text-decoration:none;
 -webkit-transform:translateZ(0) scale(1,1);
--webkit-transition:all .1s linear;
-transition:all .1s linear;
+-webkit-transition:all .12s linear;
+transition:all .12s linear;
   
 }
 
