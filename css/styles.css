@@ -2,7 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:300);
 body {
   text-shadow: #212121;
-  font-style: Brush-ATF-Bold;
+  text-align: center;
+  font-style: brush;
 }
 .fa-2x {
 font-size: 2em;
