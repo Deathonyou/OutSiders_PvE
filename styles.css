@@ -167,7 +167,7 @@
   background-color: black;
   height: 400px;
 }
-.profile-details {
+/*remove if adding profile image to page*/.profile-details {
   padding-left: 8px; 
 }
 .sidebar .profile-details{
