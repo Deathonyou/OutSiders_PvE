@@ -167,7 +167,9 @@
   background-color: black;
   height: 400px;
 }
-
+.profile-details {
+  padding-left: 8px; 
+}
 .sidebar .profile-details{
   position: fixed;
   bottom: 0;
