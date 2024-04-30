@@ -14,6 +14,7 @@ div {
 }
 .Body-Stuff{
   align-content: center;
+  text-align: center;
   text-shadow: #11101d;
   font-family: 'Times New Roman', Times, serif;
 }
@@ -232,6 +233,7 @@ div {
 }
 .home-section{
   position: relative;
+  text-align: center;
   background: #E4E9F7;
   height: 100vh;
   left: 260px;
