@@ -233,7 +233,7 @@ div {
 }
 .home-section{
   position: relative;
-  text-align: center;
+  align-content: center;
   background: #E4E9F7;
   height: 100vh;
   left: 260px;
