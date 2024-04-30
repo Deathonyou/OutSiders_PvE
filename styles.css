@@ -6,6 +6,17 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+div {
+  font-family: 'Times New Roman', Times, serif;
+}
+.Body-Stuff{
+  align-content: center;
+  text-shadow: #11101d;
+  font-family: 'Times New Roman', Times, serif;
+}
 .sidebar{
   position: fixed;
   top: 0;
