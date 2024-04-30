@@ -228,6 +228,7 @@
   left: 260px;
   width: calc(100% - 260px);
   transition: all 0.5s ease;
+  font-family:'Courier New', Courier, monospace
 }
 .sidebar.close ~ .home-section{
   left: 78px;
